@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Aoe rankings 2.0/1.0.0": {
+        "runtime": {
+          "Aoe rankings 2.0.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Aoe rankings 2.0/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

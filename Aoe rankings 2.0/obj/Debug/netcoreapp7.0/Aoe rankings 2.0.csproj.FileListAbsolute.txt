@@ -1,0 +1,15 @@
+/home/kek/code/old_progproj/Aoe rankings 2.0/Aoe rankings 2.0/bin/Debug/netcoreapp7.0/Aoe rankings 2.0
+/home/kek/code/old_progproj/Aoe rankings 2.0/Aoe rankings 2.0/bin/Debug/netcoreapp7.0/Aoe rankings 2.0.deps.json
+/home/kek/code/old_progproj/Aoe rankings 2.0/Aoe rankings 2.0/bin/Debug/netcoreapp7.0/Aoe rankings 2.0.runtimeconfig.json
+/home/kek/code/old_progproj/Aoe rankings 2.0/Aoe rankings 2.0/bin/Debug/netcoreapp7.0/Aoe rankings 2.0.dll
+/home/kek/code/old_progproj/Aoe rankings 2.0/Aoe rankings 2.0/bin/Debug/netcoreapp7.0/Aoe rankings 2.0.pdb
+/home/kek/code/old_progproj/Aoe rankings 2.0/Aoe rankings 2.0/obj/Debug/netcoreapp7.0/Aoe rankings 2.0.csproj.AssemblyReference.cache
+/home/kek/code/old_progproj/Aoe rankings 2.0/Aoe rankings 2.0/obj/Debug/netcoreapp7.0/Aoe rankings 2.0.GeneratedMSBuildEditorConfig.editorconfig
+/home/kek/code/old_progproj/Aoe rankings 2.0/Aoe rankings 2.0/obj/Debug/netcoreapp7.0/Aoe rankings 2.0.AssemblyInfoInputs.cache
+/home/kek/code/old_progproj/Aoe rankings 2.0/Aoe rankings 2.0/obj/Debug/netcoreapp7.0/Aoe rankings 2.0.AssemblyInfo.cs
+/home/kek/code/old_progproj/Aoe rankings 2.0/Aoe rankings 2.0/obj/Debug/netcoreapp7.0/Aoe rankings 2.0.csproj.CoreCompileInputs.cache
+/home/kek/code/old_progproj/Aoe rankings 2.0/Aoe rankings 2.0/obj/Debug/netcoreapp7.0/Aoe rankings 2.0.dll
+/home/kek/code/old_progproj/Aoe rankings 2.0/Aoe rankings 2.0/obj/Debug/netcoreapp7.0/refint/Aoe rankings 2.0.dll
+/home/kek/code/old_progproj/Aoe rankings 2.0/Aoe rankings 2.0/obj/Debug/netcoreapp7.0/Aoe rankings 2.0.pdb
+/home/kek/code/old_progproj/Aoe rankings 2.0/Aoe rankings 2.0/obj/Debug/netcoreapp7.0/Aoe rankings 2.0.genruntimeconfig.cache
+/home/kek/code/old_progproj/Aoe rankings 2.0/Aoe rankings 2.0/obj/Debug/netcoreapp7.0/ref/Aoe rankings 2.0.dll
